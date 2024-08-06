@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Item Resource Pack",
+    "name": "Custom Item Resource Pack",
+    "uuid": "633d1786-23cb-4f35-9737-cc307bd4d2df",
+    "version": [1, 0, 22],
+    "min_engine_version": [1, 20, 30]
+  },
+  "modules": [
+    {
+      "description": "Custom Item Resource Pack",
+      "type": "resources",
+      "uuid": "c7bb8f9c-af05-4431-b33d-e97f1afe2e72",
+      "version": [1, 0, 1]
+    }
+  ]
+}
