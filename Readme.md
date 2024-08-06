@@ -1,0 +1,1 @@
+this a beta testing version of minecraft bedrock land claim addon which you can freely use in your minecraft server, world, realms etc. you also have the permission to modify the addon if you want. if you find a bug in this addon you can report it in "issues" section.
