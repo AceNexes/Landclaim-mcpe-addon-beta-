@@ -5,7 +5,7 @@ this a beta testing version of minecraft bedrock land claim addon which you can 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at cannel.feedback@gmail.com
+If you have any feedback, please reach out to us at kaifeedback18@gmail.com
 
 
 ## Features
